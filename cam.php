@@ -40,7 +40,7 @@ include("connection.php");
 								    <ul class="nav navbar-nav">
 								<li><a href="index.php" class="active"><font color="white">Home</font></a></li>
 								<li><a href="#"><font color="white">About Us</font></a></li>
-								<li><a href="#"><font color="white">Contect Us</font></a></li>
+								<li><a href="#"><font color="white">Contact Us</font></a></li>
 								<li><a href="#"><font color="white">Help</a></font></li>
 								</ul>
 								<div>
